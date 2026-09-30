@@ -1,0 +1,6 @@
+{
+  "name": "TrustChain",
+  "description": "Enterprise-grade supply chain provenance, verification, and end-to-end traceability platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
